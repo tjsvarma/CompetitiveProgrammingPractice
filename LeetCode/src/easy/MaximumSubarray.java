@@ -22,10 +22,6 @@ package easy;
  */
 
 public class MaximumSubarray {
-    public static void main(String[] args) {
-        int[] nums = {-2,1,-3,4,-1,2,1,-5,4};
-        System.out.println(maxSubArray(nums));
-    }
 
     public static int maxSubArray(int[] nums) {
         int largestSum = -10000;
@@ -36,5 +32,10 @@ public class MaximumSubarray {
             sum = (sum < 0) ? 0 : sum;
         }
         return largestSum;
+    }
+
+    public static void main(String[] args) {
+        int[] nums = {-2,1,-3,4,-1,2,1,-5,4};
+        System.out.println(maxSubArray(nums));
     }
 }
