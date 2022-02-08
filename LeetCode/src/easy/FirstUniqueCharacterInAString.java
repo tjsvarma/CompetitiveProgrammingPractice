@@ -24,7 +24,7 @@ public class FirstUniqueCharacterInAString {
      * Brute force
      * Time Complexity O(n^2)
      */
-    public int firstUniqChar(String s) {
+    public int firstUniqueChar(String s) {
         for (int i = 0; i < s.length(); i++) {
             char unique = s.charAt(i);
             for (int j = 0; j < s.length(); j++) {
@@ -51,7 +51,7 @@ public class FirstUniqueCharacterInAString {
     /**
      * Medium optimized
      */
-    public int firstUniqCharUsingHashSet(String s) {
+    public int firstUniqueCharUsingHashSet(String s) {
         int flag;
         Set<Character> set = new HashSet<>();
         for(int i =0;i<s.length();i++)
@@ -91,7 +91,7 @@ public class FirstUniqueCharacterInAString {
      * Extreme optimized
      * Time Complexity O(n)
      */
-    public int firstUniqCharUsingHashMap(String s) {
+    public int firstUniqueCharUsingHashMap(String s) {
         if (s == null || s.length() == 0) return -1; //Edge case
         HashMap<Character, Integer> count = new HashMap<>();
         for (char c : s.toCharArray()) count.put(c, count.getOrDefault(c, 0) + 1); //Count the occurance of every chars
