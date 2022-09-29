@@ -1,38 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="08bcafe7-279b-4e6e-86a7-9adda92f3158" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/easy/linkedList/RemoveDuplicatesFromSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/easy/linkedList/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/easy/stackOrQueue/ImplementQueueUsingStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/easy/stackOrQueue/ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/easy/tree/BinaryTreeInorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/easy/tree/BinaryTreePostorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/easy/tree/BinaryTreePreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/easy/tree/MaximumDepthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/medium/tree/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/array/BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/array/ContainsDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/FirstUniqueCharacterInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/string/FirstUniqueCharacterInAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/IntersectionOfTwoArraysII.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/array/IntersectionOfTwoArraysII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/linkedList/LinkedListCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/array/MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/array/MergeSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/linkedList/MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/PascalsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/array/PascalsTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/RansomNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/string/RansomNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/RemoveLinkedListElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/linkedList/RemoveLinkedListElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/ReshapeTheMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/array/ReshapeTheMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/array/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/easy/ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/easy/string/ValidAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/medium/SearchA2DMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/medium/array/SearchA2DMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/medium/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/medium/array/ValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/easy/array/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/easy/array/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/medium/tree/ConstructBinaryTreeFromInorderAndPostorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,5 +49,16 @@
       <updated>1643511078198</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
